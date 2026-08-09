@@ -13,8 +13,8 @@ This project sets up a complete monitoring stack using **Prometheus** for metric
    git clone <repository-url>
    cd project-6-monitoring-dashboard
 
- * Start the stack using Docker Compose:
+ 2 Start the stack using Docker Compose:
    docker-compose up -d
-
- * Access Prometheus at http://localhost:9090 and Grafana at http://localhost:3000.
+   
+ 3 Access Prometheus at http://localhost:9090 and Grafana at http://localhost:3000.
 
